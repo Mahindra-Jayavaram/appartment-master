@@ -1,0 +1,55 @@
+{
+  "signUp": [
+    {
+      "email": "mahindrajayavaram@gmail.com",
+      "username": "Mahi",
+      "password": "mahi1234",
+      "id": 1
+    }
+  ],
+  "flats": [
+    {
+      "block": "A",
+      "name": "101",
+      "residents": "4",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2018-06/08/full/1528397457-4687.jpg",
+      "id": 1
+    },
+    {
+      "block": "A",
+      "name": "102",
+      "residents": "2",
+      "image": "https://5.imimg.com/data5/WR/QC/MY-13018244/3-bhk-new-flat-with-lowest-rent-at-vesu-vip-road-2c-surat-500x500.jpg",
+      "id": 2
+    },
+    {
+      "block": "B",
+      "name": "101",
+      "residents": "5",
+      "image": "https://5.imimg.com/data5/KG/QB/MY-13018244/luxurious-500x500.jpg",
+      "id": 3
+    },
+    {
+      "block": "B",
+      "name": "102",
+      "residents": "6",
+      "image": "https://5.imimg.com/data5/OF/OH/GW/SELLER-53228799/vip-flats-500x500.jpeg",
+      "id": 4
+    },
+    {
+      "block": "C",
+      "name": "100",
+      "residents": "3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH8DIVrsQ0G1MGwN3V6gOwpSYkGLmDhixA4I9dEV-FLOuIXiv3EXiZbS9PToiMt3BOxbE&usqp=CAU",
+      "id": 5
+    }
+  ],
+  "residents": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    }
+  ]
+}
